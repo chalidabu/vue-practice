@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vue-tutorial
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -33,3 +34,7 @@ npm run build
 ```sh
 npm run lint
 ```
+=======
+# vue-practice
+This repo contains many practices to strengthen and sharpen my knowledge in vue.js.
+>>>>>>> 38e633f5162831ae51f6b38e129ae872faabd1d1
